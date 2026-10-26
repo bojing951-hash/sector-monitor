@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+09-监控报告/
+*.log
+.DS_Store
